@@ -3,8 +3,6 @@ ETC
 -------------
 제보·신고센터 소개
 
--IE=edge
-
 -max-image-preview:large
 
 -width=device-width, initial-scale=1
