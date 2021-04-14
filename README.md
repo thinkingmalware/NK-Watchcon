@@ -2,6 +2,7 @@
 ETC
 -------------
 infor
+
 -max-image-preview:large
 
 -width=device-width, initial-scale=1
