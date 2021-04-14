@@ -1,8 +1,7 @@
 # banner
 ETC
 -------------
-제보·신고센터 소개
-
+infor
 -max-image-preview:large
 
 -width=device-width, initial-scale=1
@@ -10,6 +9,9 @@ ETC
 -WordPress 5.7
 ![image](https://user-images.githubusercontent.com/44921791/114661736-701ff400-9d32-11eb-9950-d8d04608bab1.png)
          https://nkwatchcon.com/
+
+-------------
+제보·신고센터 소개
 
 저희 센터는 NKBLUE (북한 정보·신고센터)를 운영했던 주체입니다. 우리는 운영주체의 익명성이 대중에게 신뢰도를 줄 수 없다고 판단하여 초기부터 한국에 소재하고 있는 비영리 안보단체 블루유니온에서 운영하고 있는 안보 전문매체 `블루투데이`를 통해 매우 낮은 단계의 `접촉선`을 유지하고 있습니다.
 
